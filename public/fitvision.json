@@ -4,105 +4,105 @@
       "id": 1,
       "name": "Push-ups",
       "category": "Upper Body",
-      "description": "Push-ups are a great bodyweight exercise that primarily targets the chest, shoulders, and triceps.",
+      "description": "Push-ups are a great bodyweight exercise that primarily targets the chest, shoulders, and triceps. They also engage the core muscles for stability and balance.",
       "imageUrl": "https://images.squarespace-cdn.com/content/v1/58501b0cf5e23149e5589e12/1585601917653-J791ZN5ZWSK565NIZSS1/1_WZmDgcJO40Va5mVgdfbz7g%402x.jpeg"
     },
     {
       "id": 2,
       "name": "Squats",
       "category": "Lower Body",
-      "description": "Squats are a fundamental lower body exercise that targets the quadriceps, hamstrings, and glutes.",
+      "description": "Squats are a fundamental lower body exercise that targets the quadriceps, hamstrings, and glutes. They also engage the core muscles for stability and balance, promoting overall lower body strength and functional movement.",
       "imageUrl": "https://www.mensjournal.com/.image/t_share/MTk2MTM1ODU1MzE5NTU3MjY1/higher-jump-squat-main-new.jpg"
     },
     {
       "id": 3,
       "name": "Pull-ups",
       "category": "Upper Body",
-      "description": "Pull-ups are a challenging upper body exercise that primarily targets the back, biceps, and shoulders.",
+      "description": "Pull-ups are a challenging upper body exercise that primarily targets the back, biceps, and shoulders. They also engage the core muscles for stability and balance.",
       "imageUrl": "https://supersoldierproject.com/wp-content/uploads/2020/06/Depositphotos_114062056_s-2019.jpg"
     },
     {
       "id": 4,
       "name": "Deadlifts",
       "category": "Lower Body",
-      "description": "Deadlifts are a compound exercise that targets multiple muscle groups including the lower back, hamstrings, and glutes.",
+      "description": "Deadlifts are a compound exercise that targets multiple muscle groups including the lower back, hamstrings, and glutes. They also engage the core muscles for stability and balance, promoting overall strength and power.",
       "imageUrl": "https://www.kettlebellkings.com/cdn/shop/articles/barbell-deadlift-movement.gif?v=1692228918"
     },
     {
       "id": 5,
       "name": "Bench Press",
       "category": "Upper Body",
-      "description": "The bench press is a classic chest exercise that also works the shoulders and triceps.",
+      "description": "The bench press is a classic chest exercise that also works the shoulders and triceps. It is effective for building upper body strength and muscle mass, and it also engages the core muscles for stability.",
       "imageUrl": "https://static.strengthlevel.com/images/exercises/bench-press/bench-press-800.jpg"
     },
     {
       "id": 6,
       "name": "Lunges",
       "category": "Lower Body",
-      "description": "Lunges are a versatile lower body exercise that targets the quadriceps, hamstrings, and glutes.",
+      "description": "Lunges are a versatile lower body exercise that targets the quadriceps, hamstrings, and glutes. They also engage the core muscles for stability and balance, and they can help improve unilateral strength and balance.",
       "imageUrl": "https://www.inspireusafoundation.org/wp-content/uploads/2023/08/bodyweight-walking-lunge-muscles-1024x413.png"
     },
     {
       "id": 7,
       "name": "Dumbbell Rows",
       "category": "Upper Body",
-      "description": "Dumbbell rows are a great exercise for building a strong back and improving posture.",
+      "description": "Dumbbell rows are a great exercise for building a strong back and improving posture. They also engage the core muscles for stability and balance.",
       "imageUrl": "https://static.strengthlevel.com/images/exercises/dumbbell-row/dumbbell-row-800.jpg"
     },
     {
       "id": 8,
       "name": "Leg Press",
       "category": "Lower Body",
-      "description": "The leg press machine targets the quadriceps, hamstrings, and glutes with less stress on the lower back compared to squats.",
+      "description": "The leg press machine targets the quadriceps, hamstrings, and glutes with less stress on the lower back compared to squats. It is effective for building lower body strength and muscle endurance.",
       "imageUrl": "https://static.strengthlevel.com/images/exercises/horizontal-leg-press/horizontal-leg-press-800.jpg"
     },
     {
       "id": 9,
       "name": "Shoulder Press",
       "category": "Upper Body",
-      "description": "Shoulder press targets the deltoid muscles of the shoulders and triceps.",
+      "description": "Shoulder press targets the deltoid muscles of the shoulders and triceps. It is effective for building shoulder strength and muscle mass, and it also engages the core muscles for stability.",
       "imageUrl": "https://static.strengthlevel.com/images/exercises/machine-shoulder-press/machine-shoulder-press-800.jpg"
     },
     {
       "id": 10,
       "name": "Romanian Deadlifts",
       "category": "Lower Body",
-      "description": "Romanian deadlifts focus on the hamstrings and glutes while also engaging the lower back.",
+      "description": "Romanian deadlifts focus on the hamstrings and glutes while also engaging the lower back. They are effective for improving hamstring flexibility and strength, and they also engage the core muscles for stability.",
       "imageUrl": "https://www.hertssportsvillage.co.uk/news-images/2022-Nov/rdl--4995.jpg"
     },
     {
       "id": 11,
       "name": "Tricep Dips",
       "category": "Upper Body",
-      "description": "Tricep dips are a bodyweight exercise that primarily targets the triceps.",
+      "description": "Tricep dips are a bodyweight exercise that primarily targets the triceps. They also engage the chest and shoulders, and they require core stability for proper execution.",
       "imageUrl": "https://fitnessprogramer.com/wp-content/uploads/2021/04/Triceps-dips-on-floors.gif"
     },
     {
       "id": 12,
       "name": "Calf Raises",
       "category": "Lower Body",
-      "description": "Calf raises target the calf muscles and are commonly done using bodyweight, dumbbells, or a calf raise machine.",
+      "description": "Calf raises target the calf muscles and are commonly done using bodyweight, dumbbells, or a calf raise machine. They are effective for building calf strength and muscle endurance, and they also engage the stabilizing muscles of the ankle and foot.",
       "imageUrl": "https://fitnessvolt.com/wp-content/uploads/2021/02/dumbbell-standing-calf-raise-.jpg"
     },
     {
       "id": 13,
       "name": "Bicep Curls",
       "category": "Upper Body",
-      "description": "Bicep curls isolate the biceps and are typically performed using dumbbells, barbells, or resistance bands.",
+      "description": "Bicep curls isolate the biceps and are typically performed using dumbbells, barbells, or resistance bands. They are effective for building bicep strength and muscle mass, and they also engage the forearm muscles for stability.",
       "imageUrl": "https://s3assets.skimble.com/assets/2287282/image_iphone.jpg"
     },
     {
       "id": 14,
       "name": "Hamstring Curls",
       "category": "Lower Body",
-      "description": "Hamstring curls target the hamstring muscles and can be performed using a machine or lying hamstring curl bench.",
+      "description": "Hamstring curls target the hamstring muscles and can be performed using a machine or lying hamstring curl bench. They are effective for building hamstring strength and muscle endurance, and they also engage the glutes and lower back muscles.",
       "imageUrl": "https://www.burnthefatinnercircle.com/members/images/1255.jpg?cb=20240110023647"
     },
     {
       "id": 15,
       "name": "Planks",
       "category": "Core",
-      "description": "Planks are an excellent core exercise that also engage the shoulders, chest, and back.",
+      "description": "Planks are an excellent core exercise that also engage the shoulders, chest, and back. They are effective for building core strength and stability, and they can help improve posture and prevent lower back pain.",
       "imageUrl": "https://www.inspireusafoundation.org/wp-content/uploads/2022/11/body-saw-plank.gif"
     }
   ]
