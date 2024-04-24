@@ -6,7 +6,7 @@ export default function handler(req, res) {
   const jsonFilePath = path.join(process.cwd(), 'public', 'fitvision.json');
   // Reading the JSON file asynchronously
   fs.readFile(jsonFilePath, 'utf8', (err, data) => {
-    if (err) {
+    if (err) { // Handling errors, if any
       res.status(500).json({ message: 'Error reading the json file' });
     } else {
       let exercises = JSON.parse(data).exercises; // Parsing JSON data and extracting exercises
@@ -19,6 +19,7 @@ export default function handler(req, res) {
 
       // Setting response header to indicate JSON content
       res.setHeader('Content-Type', 'application/json');
+      // Sending a 200 response with the processed exercises data
       res.status(200).json({ exercises });
     }
   });
