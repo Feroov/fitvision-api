@@ -5,7 +5,7 @@
       "name": "Push-ups",
       "category": "Upper Body",
       "description": "Push-ups are a great bodyweight exercise that primarily targets the chest, shoulders, and triceps. They also engage the core muscles for stability and balance.",
-      "imageUrl": "/media/push-up.png"
+      "imageUrl": "public/media/push-up.png"
     },
     {
       "id": 2,
