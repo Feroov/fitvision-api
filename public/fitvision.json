@@ -6,105 +6,119 @@
       "category": "Upper Body",
       "description": "Push-ups are a great bodyweight exercise that primarily targets the chest, shoulders, and triceps. They also engage the core muscles for stability and balance.",
       "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/push-up.png",
-      "videoUrl": "https://www.youtube.com/watch?v=IODxDxX7oi4"
+      "videoUrl": "https://www.youtube.com/watch?v=ZsvFTbxtOd4"
     },
     {
       "id": 2,
       "name": "Squats",
       "category": "Lower Body",
       "description": "Squats are a fundamental lower body exercise that targets the quadriceps, hamstrings, and glutes. They also engage the core muscles for stability and balance, promoting overall lower body strength and functional movement.",
-      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/squats.png"
+      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/squats.png",
+      "videoUrl": "https://www.youtube.com/watch?v=Dy28eq2PjcM"
     },
     {
       "id": 3,
       "name": "Pull-ups",
       "category": "Upper Body",
       "description": "Pull-ups are a challenging upper body exercise that primarily targets the back, biceps, and shoulders. They also engage the core muscles for stability and balance.",
-      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/pull-ups.png"
+      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/pull-ups.png",
+      "videoUrl": "https://www.youtube.com/watch?v=vw5Xmu5CIew"
     },
     {
       "id": 4,
       "name": "Deadlifts",
       "category": "Lower Body",
       "description": "Deadlifts are a compound exercise that targets multiple muscle groups including the lower back, hamstrings, and glutes. They also engage the core muscles for stability and balance, promoting overall strength and power.",
-      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/deadlift.png"
+      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/deadlift.png",
+      "videoUrl": "https://www.youtube.com/watch?v=-4qRntuXBSc"
     },
     {
       "id": 5,
       "name": "Bench Press",
       "category": "Upper Body",
       "description": "The bench press is a classic chest exercise that also works the shoulders and triceps. It is effective for building upper body strength and muscle mass, and it also engages the core muscles for stability.",
-      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/bench-press.png"
+      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/bench-press.png",
+      "videoUrl": "https://www.youtube.com/watch?v=gRVjAtPip0Y"
     },
     {
       "id": 6,
       "name": "Lunges",
       "category": "Lower Body",
       "description": "Lunges are a versatile lower body exercise that targets the quadriceps, hamstrings, and glutes. They also engage the core muscles for stability and balance, and they can help improve unilateral strength and balance.",
-      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/lunges.png"
+      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/lunges.png",
+      "videoUrl": "https://www.youtube.com/watch?v=NSFPgIyCTxc"
     },
     {
       "id": 7,
       "name": "Dumbbell Rows",
       "category": "Upper Body",
       "description": "Dumbbell rows are a great exercise for building a strong back and improving posture. They also engage the core muscles for stability and balance.",
-      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/dumbbell-row.png"
+      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/dumbbell-row.png",
+      "videoUrl": "https://www.youtube.com/watch?v=5PoEksoJNaw"
     },
     {
       "id": 8,
       "name": "Leg Press",
       "category": "Lower Body",
       "description": "The leg press machine targets the quadriceps, hamstrings, and glutes with less stress on the lower back compared to squats. It is effective for building lower body strength and muscle endurance.",
-      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/leg-press.png"
+      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/leg-press.png",
+      "videoUrl": "https://www.youtube.com/watch?v=fvCJAoHYDGY"
     },
     {
       "id": 9,
       "name": "Shoulder Press",
       "category": "Upper Body",
       "description": "Shoulder press targets the deltoid muscles of the shoulders and triceps. It is effective for building shoulder strength and muscle mass, and it also engages the core muscles for stability.",
-      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/shoulder-press.png"
+      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/shoulder-press.png",
+      "videoUrl": "https://www.youtube.com/watch?v=F3QY5vMz_6I"
     },
     {
       "id": 10,
       "name": "Romanian Deadlifts",
       "category": "Lower Body",
       "description": "Romanian deadlifts focus on the hamstrings and glutes while also engaging the lower back. They are effective for improving hamstring flexibility and strength, and they also engage the core muscles for stability.",
-      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/romanian-deadlift.png"
+      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/romanian-deadlift.png",
+      "videoUrl": "https://www.youtube.com/watch?v=2SHsk9AzdjA"
     },
     {
       "id": 11,
       "name": "Tricep Dips",
       "category": "Upper Body",
       "description": "Tricep dips are a bodyweight exercise that primarily targets the triceps. They also engage the chest and shoulders, and they require core stability for proper execution.",
-      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/tricep-dips.png"
+      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/tricep-dips.png",
+      "videoUrl": "https://www.youtube.com/watch?v=BjiyWC_cJW0"
     },
     {
       "id": 12,
       "name": "Calf Raises",
       "category": "Lower Body",
       "description": "Calf raises target the calf muscles and are commonly done using bodyweight, dumbbells, or a calf raise machine. They are effective for building calf strength and muscle endurance, and they also engage the stabilizing muscles of the ankle and foot.",
-      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/calf-raises.png"
+      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/calf-raises.png",
+      "videoUrl": "https://www.youtube.com/watch?v=Jk_fDd57e98"
     },
     {
       "id": 13,
       "name": "Bicep Curls",
       "category": "Upper Body",
       "description": "Bicep curls isolate the biceps and are typically performed using dumbbells, barbells, or resistance bands. They are effective for building bicep strength and muscle mass, and they also engage the forearm muscles for stability.",
-      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/bicep-curls.png"
+      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/bicep-curls.png",
+      "videoUrl": "https://www.youtube.com/watch?v=8FBvpeeSkGE"
     },
     {
       "id": 14,
       "name": "Hamstring Curls",
       "category": "Lower Body",
       "description": "Hamstring curls target the hamstring muscles and can be performed using a machine or lying hamstring curl bench. They are effective for building hamstring strength and muscle endurance, and they also engage the glutes and lower back muscles.",
-      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/hamstring-curls.png"
+      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/hamstring-curls.png",
+      "videoUrl": "https://www.youtube.com/watch?v=dY7BmNR7RJk"
     },
     {
       "id": 15,
       "name": "Planks",
       "category": "Core",
       "description": "Planks are an excellent core exercise that also engage the shoulders, chest, and back. They are effective for building core strength and stability, and they can help improve posture and prevent lower back pain.",
-      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/planks.png"
+      "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-app/main/public/media/planks.png",
+      "videoUrl": "https://www.youtube.com/watch?v=pvIjsG5Svck"
     }
   ]
 }
