@@ -1,14 +1,14 @@
 {
   "foods": [
-    {"id": 1, "name": "Apple", "calories": 95, "description": "Fresh apple.", "imageUrl": "apple.png"},
-    {"id": 2, "name": "Banana", "calories": 105, "description": "Ripe banana.", "imageUrl": "banana.png"},
-    {"id": 3, "name": "Carrot", "calories": 25, "description": "Crunchy carrots.", "imageUrl": "carrot.png"},
-    {"id": 4, "name": "Tomato", "calories": 22, "description": "Juicy tomato.", "imageUrl": "tomato.png"},
-    {"id": 5, "name": "Broccoli", "calories": 31, "description": "Green broccoli.", "imageUrl": "broccoli.png"},
-    {"id": 6, "name": "Almonds", "calories": 162, "description": "Healthy almonds.", "imageUrl": "almonds.png"},
-    {"id": 7, "name": "Chicken Breast", "calories": 284, "description": "Grilled chicken breast.", "imageUrl": "chicken-breast.png"},
-    {"id": 8, "name": "Salmon", "calories": 233, "description": "Fresh salmon fillet.", "imageUrl": "salmon.png"},
-    {"id": 9, "name": "Egg", "calories": 78, "description": "Boiled egg.", "imageUrl": "egg.png"},
-    {"id": 10, "name": "Oatmeal", "calories": 158, "description": "Warm oatmeal.", "imageUrl": "oatmeal.png"}
+    {"id": 1, "name": "Apple", "calories": 95, "description": "Fresh apple.", "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-api/main/public/media/apple.png"},
+    {"id": 2, "name": "Banana", "calories": 105, "description": "Ripe banana.", "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-api/main/public/media/banana.png"},
+    {"id": 3, "name": "Carrot", "calories": 25, "description": "Crunchy carrots.", "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-api/main/public/media/carrot.png"},
+    {"id": 4, "name": "Tomato", "calories": 22, "description": "Juicy tomato.", "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-api/main/public/media/tomato.png"},
+    {"id": 5, "name": "Broccoli", "calories": 31, "description": "Green broccoli.", "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-api/main/public/media/broccoli.png"},
+    {"id": 6, "name": "Almonds", "calories": 162, "description": "Healthy almonds.", "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-api/main/public/media/almonds.png"},
+    {"id": 7, "name": "Chicken Breast", "calories": 284, "description": "Grilled chicken breast.", "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-api/main/public/media/chicken-breast.png"},
+    {"id": 8, "name": "Salmon", "calories": 233, "description": "Fresh salmon fillet.", "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-api/main/public/media/salmon.png"},
+    {"id": 9, "name": "Egg", "calories": 78, "description": "Boiled egg.", "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-api/main/public/media/egg.png"},
+    {"id": 10, "name": "Oatmeal", "calories": 158, "description": "Warm oatmeal.", "imageUrl": "https://raw.githubusercontent.com/Feroov/fitvision-api/main/public/media/oatmeal.png"}
   ]
 }
